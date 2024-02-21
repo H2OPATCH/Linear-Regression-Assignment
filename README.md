@@ -11,12 +11,19 @@ General Information
 This project focuses on implementing multiple linear regression using the Boombikes bike rental dataset as part of the Machine Learning coursework. The objective is to predict rental numbers based on independent variables like temperature, weather, humidity, and holidays. The analysis covers data interpretation, visualization, pre-processing, model training, and evaluation on the test set. Key concepts such as Exploratory Data Analysis (EDA) and p-values are utilized, employing the statsmodels library for model building.
 
 Technologies Used
+
 pandas
+
 seaborn
+
 matplotlib
+
 statsmodels
+
 sci-kit learn
+
 numpy
+
 
 Conclusions
 The developed model demonstrates a satisfactory R-squared value of 82.71% on the training set and 81.13% on the test set, indicating accurate variance explanation in rentals. The mean squared error is nearly 0 on both datasets, reflecting precise prediction of variance on the test set. The Python notebook includes essential steps like EDA, model training, and evaluation, utilizing various statistical concepts and libraries.
